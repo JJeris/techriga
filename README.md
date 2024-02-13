@@ -1,5 +1,7 @@
 # techriga
 A repo showcasing the most prevalent job posting in the city of Riga, Latvia. Meant for up and coming developers in the area.
+
+
 ****![image](https://github.com/JJeris/techriga/assets/60788469/e5229f62-94f8-4ffb-abf6-feaf473d8490)
 
 
