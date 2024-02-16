@@ -18,3 +18,5 @@ Roadmap:
 - Workshop a db solution, that would allow people to update the posted data, add new data, or remove old data - data IO moderation.
 - Develop a web solution, where users can explore this information, using the least complicated and cheapest solution possible - both for the FE and BE.
 
+Used resources:
+- https://www.cv.lv/lv
